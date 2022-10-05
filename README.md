@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @donttellmeimcute
+- 👀 I’m interested in AI and Hacking
+- 🌱 I’m currently learning Tensorflow
